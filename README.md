@@ -83,9 +83,13 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaMar-8a&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMar-8a&layout=compact&theme=radical&hide_border=true)
+
+![Ana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaMar-8a&show_icons=true&theme=radical&hide_border=true)
+![Top Languages Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMar-8a&layout=donut&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaMar-8a&theme=radical)
+
+</div>
+
 
 </div>
 
@@ -116,3 +120,5 @@
 **⭐ Si mi perfil te parece interesante, no dudes en darle una estrella a mis repos ⭐**
 
 </div>
+
+![Pinned Repos](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnaMar-8a&theme=radical)
