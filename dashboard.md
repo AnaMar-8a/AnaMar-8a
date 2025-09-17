@@ -12,7 +12,7 @@
 
 ---
 
-## 📊 Executive Dashboard
+## 📊 Executive KPI Dashboard
 
 <div align="center">
 
@@ -29,32 +29,25 @@
 
 ---
 
-### 🏅 Key Skills & Tools
+### 🏅 Key Skills & Proficiency (KPI Bars)
 
-<div align="center">
-
-**Project Management & Tools**  
-![Jira](https://img.shields.io/badge/Jira-Expert-0052CC?style=for-the-badge&logo=jira)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-Advanced-0078D4?style=for-the-badge&logo=azuredevops)
-![Confluence](https://img.shields.io/badge/Confluence-Expert-172B4D?style=for-the-badge&logo=confluence)
-![MS Project](https://img.shields.io/badge/MS%20Project-Advanced-217346?style=for-the-badge&logo=microsoftoffice)
-
-**Frameworks & Methodologies**  
-![Scrum](https://img.shields.io/badge/Scrum-Master-FF6B6B?style=for-the-badge)
-![SAFe](https://img.shields.io/badge/SAFe-Practitioner-4ECDC4?style=for-the-badge)
-![Kanban](https://img.shields.io/badge/Kanban-Expert-45B7D1?style=for-the-badge)
-![Design Thinking](https://img.shields.io/badge/Design%20Thinking-Certified-96CEB4?style=for-the-badge)
-
-**Analytics & Reporting**  
-![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-Intermediate-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-Certified-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
-</div>
+| Skill / Tool                  | Nivel |
+|-------------------------------|-------|
+| **Project Management (Jira)** | ██████████ 100% |
+| **Azure DevOps**               | █████████ 90% |
+| **Confluence**                 | ██████████ 100% |
+| **MS Project**                 | ████████ 80% |
+| **Scrum**                      | ██████████ 100% |
+| **SAFe**                       | ████████ 80% |
+| **Kanban**                     | █████████ 90% |
+| **Design Thinking**            | ████████ 80% |
+| **Power BI**                   | █████████ 90% |
+| **Tableau**                     | ███████ 70% |
+| **Google Analytics**           | ███████ 70% |
 
 ---
 
-### 🎯 Impact Metrics
+### 🎯 Impact Metrics (KPI Badges)
 
 <div align="center">
 
@@ -67,7 +60,7 @@
 
 ---
 
-### 🚀 Repositorios Destacados
+### 🚀 Repositorios Destacados (Portfolio KPI Cards)
 
 <div align="center">
 
@@ -78,6 +71,16 @@
 
 ---
 
-💬 **Tip:** Este dashboard permite a cualquier visitante ver tu **actividad, skills, impacto y proyectos clave** de un vistazo. Ideal para **reclutadores, colegas o potenciales clientes**.  
+### 🔥 Proyectos & KPIs Estratégicos
+
+| Proyecto | Alcance | Resultado |
+|----------|--------|-----------|
+| **Gestión de Portfolio - Syspotec** | 6 Equipos • 25 Soluciones | 40% reducción bugs • 25% mejora TTM • 90% satisfacción |
+| **Transformación Digital - GTA** | Modernización procesos legacy | 60% digitalización • $2M ahorro anual • 95% adopción usuarios |
+| **Liderazgo de Producto en Acción** | Framework replicable | Aplicado en 3+ organizaciones • Caso de estudio de referencia |
+
+---
+
+💬 **Tip:** Este dashboard combina **actividad real en GitHub, habilidades, métricas de impacto y proyectos estratégicos**, convirtiendo tu README en un **panel ejecutivo gamificado**. Perfecto para reclutadores, colegas o clientes que necesitan un vistazo rápido de tu valor profesional.
 
 *"El éxito no es solo entregar proyectos a tiempo y dentro del presupuesto. Es transformar organizaciones y empoderar equipos para lograr lo imposible."*
