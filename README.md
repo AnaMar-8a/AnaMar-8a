@@ -13,7 +13,7 @@
 ```
 🎯 PROYECTOS GESTIONADOS         💼 EQUIPOS LIDERADOS           📈 MEJORAS LOGRADAS
    25+ Soluciones Software          6 Equipos Multifuncionales     40% Reducción Bugs
-   
+
 🚀 TRANSFORMACIONES             ⚡ METODOLOGÍAS                🌟 CERTIFICACIONES
    3+ Organizaciones Digitales     Agile • Scrum • Lean           PMP • PSM • SAFe
 ```
@@ -86,10 +86,7 @@
 
 ![Ana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaMar-8a&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMar-8a&layout=donut&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaMar-8a&theme=radical)
-
-</div>
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=AnaMar-8a&theme=radical&hide_border=true)
 
 </div>
 
@@ -114,7 +111,7 @@
 ---
 
 <div align="center">
-  
+
 *"El éxito no es solo entregar proyectos a tiempo y dentro del presupuesto. Es transformar organizaciones y empoderar equipos para lograr lo imposible."*
 
 **⭐ Si mi perfil te parece interesante, no dudes en darle una estrella a mis repos ⭐**
