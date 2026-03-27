@@ -82,13 +82,17 @@
 
 ## 📊 GitHub Stats & Activity
 
+## 📊 GitHub Stats & Activity
+
 <div align="center">
-
-![Ana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaMar-8a&show_icons=true&theme=radical&hide_border=true)
-![Top Languages Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMar-8a&layout=donut&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=AnaMar-8a&theme=radical&hide_border=true)
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnaMar-8a&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ana's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMar-8a&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=AnaMar-8a&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
 
 ---
 
