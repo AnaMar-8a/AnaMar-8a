@@ -166,6 +166,7 @@ El NPS interno pasó de 50 a 85, y se logró un 90% de cumplimiento de entregas 
 
 | Certification | Issuer | Year | Certificación | Emisor | Año |
 |---|---|---|---|---|---|
+| Enterprise Design Thinking Practitioner | IBM (Credly) | 2026 | Enterprise Design Thinking Practitioner | IBM (Credly) | 2026 |
 | Scrum Master Certified Expert (SMCE) | CertJoin | 2022 | Scrum Master Certified Expert (SMCE) | CertJoin | 2022 |
 | Scrum Product Owner Expert (SPOCE) | CertJoin | 2022 | Scrum Product Owner Expert (SPOCE) | CertJoin | 2022 |
 | Agile Coach Certified Expert (ACCE) | CertJoin | 2023 | Agile Coach Certified Expert (ACCE) | CertJoin | 2023 |
