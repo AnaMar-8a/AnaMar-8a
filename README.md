@@ -62,7 +62,7 @@ No aplico metodologías por defecto — primero estudio cada contexto, y luego d
 
 ## Selected Work | Trabajo Destacado
 
-### [Portfolio Governance & Data Quality - SOMOS Network](./Portfolio-Governance-SOMOS)
+### [Portfolio Governance & Data Quality - Network Infrastructure](./Portfolio-Governance-Network-Infrastructure)
 **Context | Contexto**
 A network infrastructure project portfolio spanning multiple lifecycle stages and project managers, with no standardized way to guarantee data quality or requirement compliance across projects.
 Un portafolio de proyectos de infraestructura de redes que abarca múltiples etapas del ciclo de vida y gerentes de proyecto, sin una forma estandarizada de garantizar la calidad de la información y el cumplimiento de requisitos entre proyectos.
@@ -166,6 +166,7 @@ El NPS interno pasó de 50 a 85, y se logró un 90% de cumplimiento de entregas 
 
 | Certification | Issuer | Year | Certificación | Emisor | Año |
 |---|---|---|---|---|---|
+| Oracle Cloud Infrastructure Foundations Associate (1Z0-1085-26) | Oracle University | 2026 | Oracle Cloud Infrastructure Foundations Associate (1Z0-1085-26) | Oracle University | 2026 |
 | Oracle Cloud Infrastructure AI Foundations Associate (1Z0-1122-26) | Oracle University | 2026 | Oracle Cloud Infrastructure AI Foundations Associate (1Z0-1122-26) | Oracle University | 2026 |
 | Enterprise Design Thinking Practitioner | IBM (Credly) | 2026 | Enterprise Design Thinking Practitioner | IBM (Credly) | 2026 |
 | Scrum Master Certified Expert (SMCE) | CertJoin | 2022 | Scrum Master Certified Expert (SMCE) | CertJoin | 2022 |
